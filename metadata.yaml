@@ -1,0 +1,31 @@
+_repo: The-Chinese-Exclusion-Act-Report-and-Resolutions-Adopted-by-the-Chamber-of-Commerce-of-the-St__69008
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2022-09-18'
+identifiers:
+  gutenberg: '69008'
+language: en
+pgterms:marc904: https://archive.org/details/chineseexclusio00commgoog
+pgterms:marc905: 20220904105430author
+pgterms:marc906: '1889'
+pgterms:marc907: US
+production_note: Tom Cosmas compiled from materials made available at The Internet
+  Archive and are placed in the Public Domain
+publication_note: United States :Press of De Leeuw & Oppenheimer,1889.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Chinese Exclusion Act: Report and Resolutions Adopted by the Chamber of
+  Commerce of the State of New York'
+url: http://www.gutenberg.org/ebooks/69008
